@@ -19,6 +19,6 @@ UnitCrunch is not currently open source software, there's no code here.
 | Link                                                                       | Description                                                                                                    |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [Patreon](https://www.patreon.com/unitcrunch)                              | Support the project, get access to the private Discord server, vote for issues to be developed and other guff. |
-| [korzxd's data exports](https://github.com/korzxd/UnitCrunch-data-exports) | User contributed data exports for you to play with.                                                            |
+| [korzxd's data exports](https://github.com/korzxd/UnitCrunch-data-exports) | Contributed data exports for you to play with.                                                                 |
 | [r/UnitCrunch](https://www.reddit.com/r/UnitCrunch/)                       | Reddit community.                                                                                              |
 | [UnitCrunch.com](https://www.unitcrunch.com/)                              | UnitCrunch itself. Nerd-out over MathHammer, stats & charts.                                                   |
