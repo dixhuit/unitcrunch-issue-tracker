@@ -8,11 +8,11 @@ UnitCrunch is not currently open source software, there's no code here.
 
 ## Shortcuts
 
-| Link                                                                                                                                                               | Description                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| [Open issues](https://github.com/dixhuit/UnitCrunch-issue-tracker/issues)                                                                                          | All currently "open" issues.                                                                                                                |
-| [Issues in development](https://github.com/users/dixhuit/projects/1)                                                                                               | Issues in development for the next minor release.                                                                                           |
-| [Open issues labelled "discord vote option"](https://github.com/dixhuit/UnitCrunch-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3A%22discord+vote+option%22+) | Issues that can be voted for in Discord polls when they're run. The issue with most votes is included for development (next minor release). |
+| Link                                                                                                                                                               | Description                                                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Open issues](https://github.com/dixhuit/UnitCrunch-issue-tracker/issues)                                                                                          | All currently "open" issues.                                                                                                                    |
+| [Issues in development](https://github.com/users/dixhuit/projects/1)                                                                                               | Issues in development for the next minor release.                                                                                               |
+| [Open issues labelled "discord vote option"](https://github.com/dixhuit/UnitCrunch-issue-tracker/issues?q=is%3Aissue+is%3Aopen+label%3A%22discord+vote+option%22+) | Issues that can be voted for in Discord polls when they're run. The issue with the most votes is included for development (next minor release). |
 
 ## Related links
 
