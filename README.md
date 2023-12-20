@@ -4,7 +4,7 @@
 
 This repo serves as an issue tracker for [UnitCrunch](https://www.unitcrunch.com/).
 
-UnitCrunch is not currently open source software, there's no code here.
+UnitCrunch is not currently open source software, there's no source code here.
 
 ## Shortcuts
 
@@ -21,4 +21,5 @@ UnitCrunch is not currently open source software, there's no code here.
 | [Patreon](https://www.patreon.com/unitcrunch)                              | Support the project, get access to the private Discord server, vote for issues to be developed and other guff. |
 | [korzxd's data exports](https://github.com/korzxd/UnitCrunch-data-exports) | Contributed data exports for you to play with.                                                                 |
 | [r/UnitCrunch](https://www.reddit.com/r/UnitCrunch/)                       | Reddit community.                                                                                              |
-| [UnitCrunch.com](https://www.unitcrunch.com/)                              | UnitCrunch itself. Nerd-out over MathHammer, stats & charts.                                                   |
+| [unitcrunch.com/changelog](https://www.unitcrunch.com/changelog)           | Changelog.                                                                                                     | 
+| [unitcrunch.com](https://www.unitcrunch.com/)                              | UnitCrunch itself. Nerd-out over MathHammer, stats & charts.                                                   |
